@@ -2,7 +2,7 @@
 
 <h1>Merhaba, ben Selin 🌸</h1>
 
-<p><em>Yazılım Geliştirici · Veri Analisti · Araştırmacı</em></p>
+<p><em>Yazılım Geliştirici ·  Araştırmacı</em></p>
 
 <br/>
 
