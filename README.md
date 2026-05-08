@@ -1,53 +1,112 @@
-# Selin Dinsever | Software Developer 🚀
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=200&section=header&text=Selin%20Dinsever&fontSize=70&animation=fadeIn&fontColor=ffffff" />
-</p>
+<h1>Merhaba, ben Selin 🌸</h1>
 
-### 👩‍💻 Hakkımda
-[cite_start]İzmir Ekonomi Üniversitesi **Bilgisayar Programcılığı** onur öğrencisiyim[cite: 5, 6]. [cite_start]**Sisbim Teknoloji** bünyesinde Stajyer Takım Liderliği yaparak backend süreçlerinde ve ekip koordinasyonunda deneyim kazandım[cite: 8, 12]. [cite_start]Yazılımı sadece kod olarak değil, toplumsal fayda ve bilimsel araştırma (TÜBİTAK 2209-A) odaklı bir araç olarak görüyorum[cite: 37, 38].
+<p><em>Yazılım Geliştirici · Veri Analisti · Araştırmacı</em></p>
 
-- [cite_start]🎓 **Eğitim:** İzmir Ekonomi Üniversitesi - Bilgisayar Programcılığı[cite: 5].
-- [cite_start]🏆 **Başarılar:** Gamethon 5.0 Mentörü [cite: 34] [cite_start]& Onur Öğrencisi (2024-2026)[cite: 6].
-- [cite_start]🚀 **Odak Noktam:** Backend Geliştirme (Java/C#) ve Veri Analizi/Makine Öğrenmesi.
-- [cite_start]🌱 **Güncel:** AI destekli dijital alışkanlık analiz sistemi üzerine çalışıyorum[cite: 62].
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selindinsever)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selindinsever@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selindinsever)
+[![Web](https://img.shields.io/badge/Web-1D9E75?style=for-the-badge&logo=google-chrome&logoColor=white)](https://selindinsever.com)
 
-### 🛠 Teknik Yetkinlikler
-
-| Alan | Teknolojiler |
-| :--- | :--- |
-| **Diller** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) |
-| **Framework & Araçlar** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199903?style=for-the-badge&logo=leaflet&logoColor=white) |
-| **Veritabanı** | ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+</div>
 
 ---
 
-### 📂 Öne Çıkan Projeler
+###  Hakkımda
 
-- [cite_start]**SeaVoice 🌊:** PHP, MSSQL ve Leaflet.js ile geliştirilen konum tabanlı çevresel raporlama sistemi[cite: 46, 47, 50].
-- [cite_start]**Stroop Test Uygulaması 🧠:** Psikolojik tepki sürelerini ölçen ve Python ile veri analizi yapan deneysel yazılım[cite: 51, 52, 53].
-- [cite_start]**Dil Trend Analizi & ML 📉:** Python ve Lineer Regresyon kullanarak sektördeki programlama dili trendlerini öngören modelleme[cite: 58, 59].
-- [cite_start]**TÜBİTAK 2209-A 🔬:** Bilgisayar programcılığı öğrencilerinin YZ okuryazarlığı üzerine akademik araştırma projesi (Yürütücü)[cite: 37, 38].
+İzmir Ekonomi Üniversitesi Bilgisayar Programcılığı bölümünde **onur öğrencisi** olarak eğitimime devam etmekteyim. Sisbim Teknoloji bünyesinde Yazılım Stajyeri ve **Stajyer Takım Lideri** olarak backend geliştirme, veri işleme otomasyonları ve ekip koordinasyonunda aktif rol aldım.
 
----
-
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=selindinsever&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selindinsever&layout=compact&theme=radical" />
-</p>
+> *Yazılım projelerimi toplumsal fayda, veri analizi ve bilimsel araştırma odaklı bir yaklaşımla şekillendiriyorum.*
 
 ---
 
-### 📫 İletişim & Sosyal Medya
-<p align="left">
-  <a href="https://linkedin.com/in/selindinsever" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:selindinsever@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://selindinsever.com" target="blank"><img src="https://img.shields.io/badge/Portfolio-7B61FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
+###  Eğitim
 
-<p align="center">
-  <i>"Kodun gücünü toplumun ve bilimin faydasına kullanmak için sürekli öğrenmeye devam ediyorum."</i>
-</p>
+|  Kurum |  Bölüm |  Dönem |
+|---|---|---|
+| İzmir Ekonomi Üniversitesi | Bilgisayar Programcılığı | 2024 – 2026 · Onur Öğrencisi |
+
+---
+
+###  Deneyim
+
+** Sisbim Teknoloji ve Yazılım A.Ş. — Stajyer Takım Lideri**
+
+- C# ve MSSQL kullanarak backend süreçlerinin yönetimi
+- Veri işleme otomasyonlarının geliştirilmesi
+- Stajyer ekibinin görev dağılımı ve koordinasyonu
+
+---
+
+### Teknik Yetkinlikler
+
+**Programlama Dilleri**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/Ruby_on_Rails-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Framework & Araçlar**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Leaflet](https://img.shields.io/badge/Leaflet.js-%23199900.svg?style=flat-square&logo=leaflet&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+**Veritabanı**
+
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**Veri Analizi & Makine Öğrenmesi**
+
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+
+---
+
+###  Projeler
+
+| Proje | Açıklama | Teknolojiler |
+|---|---|---|
+|  **SeaVoice** | Konum tabanlı çevresel raporlama ve veri yönetimi platformu | `PHP` `MSSQL` `Leaflet.js` |
+| **TÜBİTAK 2209-A** | Bilgisayar programcılığı öğrencilerinin YZ okuryazarlık düzeyleri üzerine akademik araştırma | `Pandas` `Seaborn` |
+|  **Stroop Test** | Kullanıcı tepki sürelerini ölçen veri toplama ve performans analiz yazılımı | `Python` |
+|  **Dil Trend Analizi** | Sektörel programlama dili eğilimlerini öngören makine öğrenmesi çalışması | `scikit-learn` `Matplotlib` |
+
+---
+
+###  GitHub İstatistikleri
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=selindinsever&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false)
+
+![Streak Stats](https://streak-stats.demolab.com/?user=selindinsever&theme=rose_pine&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=selindinsever&theme=rose_pine&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=selindinsever&color=e05d7a&style=flat-square" alt="Profil görüntülenme" />
+  <br/><br/>
+  <sub>✨ Kodu toplumsal fayda için yazıyorum ✨</sub>
+</div>
