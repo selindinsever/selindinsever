@@ -183,4 +183,4 @@ Kullanıcı deneyimini önceleyen, **temiz kod** ve **modern tasarım** odaklı 
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="Kodu toplumsal fayda için yazıyorum" />
+
