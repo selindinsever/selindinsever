@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://selindinsever.com.tr"><img src="assets/header.svg" width="100%" alt="Selin Dinsever — Yaratıcı Full-Stack Geliştirici" /></a>
+<a href="https://selindinsever.com.tr"><img src="assets/header.svg" width="100%" alt="Selin Dinsever — Full Stack Developer" /></a>
 
 <br/><br/>
 
-[![Web](https://img.shields.io/badge/selindinsever.com.tr-8E6CCF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://selindinsever.com.tr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A78BDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selindinsever)
-[![Gmail](https://img.shields.io/badge/Gmail-C4A8F0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selindinsever@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5B4691?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selindinsever)
+[![Web](https://img.shields.io/badge/selindinsever.com.tr-0096C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://selindinsever.com.tr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selindinsever)
+[![Gmail](https://img.shields.io/badge/Gmail-48CAE4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selindinsever@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0077B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selindinsever)
 
 </div>
 
@@ -33,7 +33,7 @@ Kullanıcı deneyimini önceleyen, **temiz kod** ve **modern tasarım** odaklı 
 ║  PLAYER 1                  ║
 ║  SELIN DINSEVER            ║
 ╠════════════════════════════╣
-║  CLASS : Full-Stack Dev    ║
+║  CLASS : Full Stack Dev    ║
 ║  LEVEL : Bölüm Birincisi   ║
 ║  GUILD : Sisbim Teknoloji  ║
 ║  LANG  : TR (ana) · EN     ║
@@ -81,14 +81,12 @@ Kullanıcı deneyimini önceleyen, **temiz kod** ve **modern tasarım** odaklı 
 
 <div align="center">
 
+<img src="assets/languages.svg" width="100%" alt="Programlama Dilleri: Java, C#, Python, PHP, Ruby, JavaScript" />
+
 <table>
 <tr>
-<td align="left" width="190"><b>Programlama Dilleri</b></td>
-<td align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="42" height="42" alt="Ruby" title="Ruby" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />&nbsp;</td>
-</tr>
-<tr>
 <td align="left" width="190"><b>Backend & Framework</b></td>
-<td align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42" alt=".NET" title=".NET" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="42" height="42" alt="Ruby on Rails" title="Ruby on Rails" />&nbsp;<br/><img src="https://img.shields.io/badge/JDBC-5B4691?style=flat-square&logo=openjdk&logoColor=white" alt="JDBC" /></td>
+<td align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42" alt=".NET" title=".NET" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="42" height="42" alt="Ruby on Rails" title="Ruby on Rails" />&nbsp;<br/><img src="https://img.shields.io/badge/JDBC-0077B6?style=flat-square&logo=openjdk&logoColor=white" alt="JDBC" /></td>
 </tr>
 <tr>
 <td align="left" width="190"><b>Frontend & Mobil</b></td>
@@ -100,7 +98,7 @@ Kullanıcı deneyimini önceleyen, **temiz kod** ve **modern tasarım** odaklı 
 </tr>
 <tr>
 <td align="left" width="190"><b>Veri Analizi & ML</b></td>
-<td align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" title="Pandas" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" title="NumPy" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib" title="Matplotlib" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="scikit-learn" title="scikit-learn" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow" title="TensorFlow" />&nbsp;<br/><img src="https://img.shields.io/badge/Seaborn-8E6CCF?style=flat-square&logo=python&logoColor=white" alt="Seaborn" /></td>
+<td align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" title="Pandas" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" title="NumPy" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib" title="Matplotlib" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="scikit-learn" title="scikit-learn" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow" title="TensorFlow" />&nbsp;<br/><img src="https://img.shields.io/badge/Seaborn-0096C7?style=flat-square&logo=python&logoColor=white" alt="Seaborn" /></td>
 </tr>
 <tr>
 <td align="left" width="190"><b>Araçlar</b></td>
@@ -129,13 +127,14 @@ Kullanıcı deneyimini önceleyen, **temiz kod** ve **modern tasarım** odaklı 
 
 | Proje | Açıklama | Teknolojiler |
 |:--|:--|:--|
-| **SeaVoice** <br/> [Web](https://github.com/selindinsever/Seavoice-Js) · [Mobil](https://github.com/selindinsever/SeavoiceMobileApp) | Kıyı kirliliğini gerçek zamanlı harita üzerinde raporlama platformu | `PHP` `MSSQL` `Leaflet.js` `React Native` |
+| **SeaVoice** <br/> [Web](https://github.com/selindinsever/Seavoice-Js) · [Mobil](https://github.com/selindinsever/SeavoiceMobileApp) | Kıyı kirliliğini gerçek zamanlı harita üzerinde raporlama platformu | `PHP` `MSSQL` `Leaflet.js` `React Native` `TypeScript` |
 | [**EduCongress**](https://github.com/selindinsever/Yapay-Zeka-Okuryazarl-g-Duzeyi-Belirleme-Analizi-TUBITAK-2209-A-) | Bilgisayar programcılığı öğrencilerinin YZ okuryazarlık düzeyi analizi | `Python` `Pandas` `Seaborn` |
-| [**Dijital Alışkanlık Analiz Sistemi**](https://github.com/selindinsever/dijital-aliskanlik-analiz-sistemi) | Ekran süresi ve çalışma alışkanlıklarını dashboard'larla analiz eden sistem | `Veri Görselleştirme` |
+| [**Dijital Alışkanlık Analiz Sistemi**](https://github.com/selindinsever/Dijital-Aliskanlik-Analiz-Sistemi) | Ekran süresi ve çalışma alışkanlıklarını dashboard'larla analiz eden sistem | `Veri Görselleştirme` |
+| [**Deniz Kirliliği İzleme Sistemi**](https://github.com/selindinsever/Deniz_Kirliligi_Izleme_Sistemi_MSSQL_Proje_Odevi) | Deniz kirliliği verilerini izlemek için tasarlanmış ilişkisel veritabanı projesi | `MSSQL` |
 | [**Stroop Çalışması**](https://github.com/selindinsever/stroop-psychology-research) | Bilişsel odak ve tepki sürelerini ölçen psikoloji deney uygulaması | `Python` |
-| **Programlama Dilleri Trend Analizi** | 2025 programlama dili eğilimlerini inceleyen makine öğrenmesi çalışması | `Python` `Pandas` `Seaborn` `scikit-learn` |
+| [**Programlama Dilleri Trend Analizi**](https://github.com/selindinsever/Analysis-of-Programming-Language-Trends) | 2025 programlama dili eğilimlerini inceleyen makine öğrenmesi çalışması | `Python` `Pandas` `Seaborn` `scikit-learn` |
 | [**Open Meteo Hava Durumu**](https://github.com/selindinsever/open-meteo-map-js) | Harita entegrasyonlu, ters geokodlamalı interaktif hava durumu uygulaması | `JavaScript` `Open-Meteo API` |
-| [**My LifeActivity Calendar**](https://github.com/selindinsever/ActivityCalendar) | Kişisel görev ve etkinlik planlama aracı | — |
+| **My LifeActivity Calendar** | Kişisel görev ve etkinlik planlama aracı | — |
 | [**Selin Portfolio**](https://selindinsever.com.tr) | Retro pixel-art estetiğini modern geliştirmeyle buluşturan kişisel site | `HTML` `CSS` `JavaScript` |
 
 <img src="assets/divider.svg" width="100%" />
@@ -165,12 +164,12 @@ Kullanıcı deneyimini önceleyen, **temiz kod** ve **modern tasarım** odaklı 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selindinsever&theme=transparent&title_color=8E6CCF&text_color=A78BDB&icon_color=C4A8F0&chart_color=8E6CCF&bg_color=00000000&border_color=8E6CCF" width="100%" alt="Profil özeti" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selindinsever&theme=transparent&title_color=0096C7&text_color=00B4D8&icon_color=48CAE4&chart_color=0096C7&bg_color=00000000&border_color=0096C7" width="100%" alt="Profil özeti" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=selindinsever&theme=transparent&title_color=8E6CCF&text_color=A78BDB&icon_color=C4A8F0&chart_color=8E6CCF&bg_color=00000000&border_color=8E6CCF" width="49%" alt="GitHub istatistikleri" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=selindinsever&theme=transparent&title_color=8E6CCF&text_color=A78BDB&icon_color=C4A8F0&chart_color=8E6CCF&bg_color=00000000&border_color=8E6CCF" width="49%" alt="En çok kullanılan diller" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=selindinsever&theme=transparent&title_color=0096C7&text_color=00B4D8&icon_color=48CAE4&chart_color=0096C7&bg_color=00000000&border_color=0096C7" width="49%" alt="GitHub istatistikleri" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=selindinsever&theme=transparent&title_color=0096C7&text_color=00B4D8&icon_color=48CAE4&chart_color=0096C7&bg_color=00000000&border_color=0096C7" width="49%" alt="En çok kullanılan diller" />
 
-<img src="https://streak-stats.demolab.com/?user=selindinsever&hide_border=true&background=00000000&ring=8E6CCF&stroke=8E6CCF&fire=C4A8F0&currStreakLabel=8E6CCF&sideLabels=8E6CCF&currStreakNum=9E9AAE&sideNums=9E9AAE&dates=9E9AAE" />
+<img src="https://streak-stats.demolab.com/?user=selindinsever&hide_border=true&background=00000000&ring=0096C7&stroke=0096C7&fire=48CAE4&currStreakLabel=0096C7&sideLabels=0096C7&currStreakNum=48CAE4&sideNums=48CAE4&dates=48CAE4" />
 
 </div>
 
@@ -178,9 +177,10 @@ Kullanıcı deneyimini önceleyen, **temiz kod** ve **modern tasarım** odaklı 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=selindinsever&color=8E6CCF&style=flat-square&label=Profil+Görüntülenme" alt="Profil görüntülenme" />
-
+<img src="https://komarev.com/ghpvc/?username=selindinsever&color=0096C7&style=flat-square&label=Profil+Görüntülenme" alt="Profil görüntülenme" />
 
 </div>
+
+<img src="assets/footer.svg" width="100%" />
 
 
