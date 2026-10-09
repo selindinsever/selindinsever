@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selindinsever)
 [![Gmail](https://img.shields.io/badge/Gmail-48CAE4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selindinsever@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0077B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selindinsever)
+[![ORCID](https://img.shields.io/badge/ORCID-023E8A?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2415-7532)
 
 </div>
 
@@ -23,6 +24,8 @@ Kullanıcı deneyimini önceleyen, **temiz kod** ve **modern tasarım** odaklı 
 
 İzmir Ekonomi Üniversitesi **Bilgisayar Programcılığı** bölümünü **bölüm birincisi** olarak tamamladım. Sisbim Teknoloji'de **Yazılım Stajyeri** ve **Stajyer Takım Lideri** olarak backend geliştirme, süreç otomasyonu ve ekip koordinasyonunda aktif rol aldım.
 
+**Java (Spring Boot)**, **C# (.NET)** ve **Python (AI/ML)** ile full stack çözümler geliştiriyorum. TÜBİTAK 2209-A kapsamında **Proje Yürütücüsü** olarak yürüttüğüm yapay zekâ okuryazarlığı araştırmamız **EDUCongress 2026**'da sözlü bildiri olarak sunuldu.
+
 > *Projelerimi toplumsal fayda, veri analizi ve bilimsel araştırma odaklı bir yaklaşımla şekillendiriyorum.*
 
 </td>
@@ -36,7 +39,10 @@ Kullanıcı deneyimini önceleyen, **temiz kod** ve **modern tasarım** odaklı 
 ║  CLASS : Full Stack Dev    ║
 ║  LEVEL : Bölüm Birincisi   ║
 ║  GUILD : Sisbim Teknoloji  ║
-║  LANG  : TR (ana) · EN     ║
+║  LANG  : TR · EN (orta)    ║
+╠════════════════════════════╣
+║  HOBBY : Bisiklet · Yüzme  ║
+║          Doğa · Karakalem  ║
 ╠════════════════════════════╣
 ║  STATUS : Yeni görevlere   ║
 ║           hazır            ║
@@ -67,13 +73,17 @@ Kullanıcı deneyimini önceleyen, **temiz kod** ve **modern tasarım** odaklı 
 - Süreç otomasyonu ve veri işleme optimizasyonları
 - Stajyer ekibinin görev dağılımı, iş akışı ve koordinasyonu
 
+**Araştırma** — *Proje Yürütücüsü · TÜBİTAK 2209-A*
+
+- Bilgisayar programcılığı öğrencilerinin yapay zekâ okuryazarlık düzeylerinin analizi
+- `Python` (`Pandas` `NumPy` `SciPy` `Seaborn`) ile verilerin işlenmesi ve raporlanması
+
 **Topluluklar**
 
 | Topluluk | Rol |
 |:--|:--|
 | IUE Gamethon 5.0 | Mentor |
-| IUE Yazılım Kulübü | Aktif Üye |
-| Huawei Student Developers | Aktif Üye |
+| İzmir Veri Topluluğu | Üye |
 
 <img src="assets/divider.svg" width="100%" />
 
@@ -81,9 +91,13 @@ Kullanıcı deneyimini önceleyen, **temiz kod** ve **modern tasarım** odaklı 
 
 <div align="center">
 
-<img src="assets/languages.svg" width="100%" alt="Programlama Dilleri: Java, C#, Python, PHP, Ruby, JavaScript" />
+<img src="assets/ocean.svg" width="100%" alt="Dalgalar, yunuslar ve deniz atları" />
 
 <table>
+<tr>
+<td align="left" width="190"><b>Programlama Dilleri</b></td>
+<td align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="42" height="42" alt="Ruby" title="Ruby" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />&nbsp;</td>
+</tr>
 <tr>
 <td align="left" width="190"><b>Backend & Framework</b></td>
 <td align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42" alt=".NET" title=".NET" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="42" height="42" alt="Ruby on Rails" title="Ruby on Rails" />&nbsp;<br/><img src="https://img.shields.io/badge/JDBC-0077B6?style=flat-square&logo=openjdk&logoColor=white" alt="JDBC" /></td>
@@ -139,22 +153,36 @@ Kullanıcı deneyimini önceleyen, **temiz kod** ve **modern tasarım** odaklı 
 
 <img src="assets/divider.svg" width="100%" />
 
+<img src="assets/h-yayinlar.svg" height="46" alt="Yayınlarım" />
+
+**Bilgisayar Programcılığı Öğrencilerinin Yapay Zekâ Okuryazarlık Düzeylerinde Sınıf Düzeyi ve Yapay Zekâ Eğitiminin Rolü**
+<br/><sub>EDUCongress 2026 · Gaziantep Üniversitesi · Sözlü Bildiri · Sunuldu</sub>
+
+> Müfredattaki yapay zekâ eğitiminin, öğrencilerin YZ okuryazarlık skorlarını istatistiksel olarak anlamlı ve büyük bir etkiyle artırdığı gösterildi (*d = 0.80, p = 0.004*). Çalışma, ön lisans programlarına zorunlu **Yapay Zekâ Etiği** dersi ve algoritmik temellerin eklenmesini öneriyor.
+
+[![ORCID](https://img.shields.io/badge/ORCID_Profilim-0096C7?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2415-7532)
+
+<img src="assets/divider.svg" width="100%" />
+
 <img src="assets/h-sertifikalar.svg" height="46" alt="Sertifikalar" />
 
 <details>
-<summary><b>2024 – 2026 · Tümünü görüntüle</b></summary>
+<summary><b>2024 – 2026 · 11 sertifika · Tümünü görüntüle</b></summary>
 <br/>
 
-| Sertifika | Kurum |
-|:--|:--|
-| Gamethon 5.0 Mentorluk Ödülü | İzmir Ekonomi Üniversitesi |
-| Ruby on Rails & AI Bootcamp | İzmir Ekonomi Üniversitesi |
-| Java Masterclass (IATELS & ICCW) | Berk Akademi |
-| Yazılım Uzmanlığı Sertifikası | Adıgüzel Meslek Yüksekokulu |
-| Uygulamalı C# Eğitimi | Udemy · Murat Yücedağ |
-| Modern Yapay Zekâya Giriş | Cisco & IUE |
-| Veri Bilimine Giriş | Cisco / BMECO |
-| Makine Öğrenmesine Giriş Atölyesi | — |
+| Sertifika | Kurum | Tarih |
+|:--|:--|:--:|
+| Ruby on Rails ve Claude Code ile Yapay Zekâ Destekli Web/Mobil Geliştirme Bootcamp | İzmir Ekonomi Üniversitesi | 2026 |
+| Java Masterclass IATELS Sertifikası | Berk Akademi | 2026 |
+| Java Masterclass ICCW Sertifikası | Berk Akademi | 2026 |
+| Yazılım Uzmanlığı Sertifikası | Adıgüzel Meslek Yüksekokulu | 2026 |
+| Gelecek Hayalim Projesi Farkındalık Programları Katılım Sertifikası | Ford Otosan | 2025 |
+| Introduction to Machine Learning Workshop | İzmir Ekonomi Üniversitesi | 2025 |
+| Uygulamalı C# Eğitim Kursu | Udemy · Murat Yücedağ | 2024 – 2025 |
+| IUE Gamethon 5.0 Mentorluk Unvanı | İzmir Ekonomi Üniversitesi | 2024 |
+| Introduction to Modern AI | Cisco & IUE | 2024 |
+| Yapay Zekâ Geleceğin Teknolojisi | İzmir Ekonomi Üniversitesi | 2024 |
+| Introduction to Data Science | Cisco / BMECO | 2024 |
 
 </details>
 
