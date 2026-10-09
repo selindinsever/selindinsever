@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" width="960" height="250" role="img" aria-label="Programlama dilleri: Java, C#, Python, PHP, Ruby, JavaScript">
+  <defs>
+    <linearGradient id="dropFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#40E0D0"/>
+      <stop offset=".55" stop-color="#0096C7"/>
+      <stop offset="1" stop-color="#023E8A"/>
+    </linearGradient>
+    <radialGradient id="dropGlow" cx=".35" cy=".35" r=".7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g transform="translate(80 120)">
+    <ellipse cx="0" cy="98" rx="46" ry="7" fill="#00B4D8" opacity=".25">
+      <animate attributeName="rx" values="46;34;46" dur="3s" begin="0.0s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3s" begin="0.0s" repeatCount="indefinite"/>
+      <path d="M0,-78 C18,-50 58,-10 58,22 A58,58 0 0 1 -58,22 C-58,-10 -18,-50 0,-78 Z" fill="url(#dropFill)" stroke="#CAF0F8" stroke-width="3"/>
+      <path d="M0,-78 C18,-50 58,-10 58,22 A58,58 0 0 1 -58,22 C-58,-10 -18,-50 0,-78 Z" fill="url(#dropGlow)"/>
+      <ellipse cx="-24" cy="-6" rx="9" ry="16" fill="#FFFFFF" opacity=".55" transform="rotate(25 -24 -6)"/>
+      <rect x="-18" y="-40" width="5" height="5" fill="#FFFFFF" opacity=".8"/>
+      <rect x="-26" y="40" width="52" height="4" fill="#F89820"/>
+      <text x="0" y="30" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="20" font-weight="700" fill="#FFFFFF">Java</text>
+    </g>
+  </g>
+  <g transform="translate(240 120)">
+    <ellipse cx="0" cy="98" rx="46" ry="7" fill="#00B4D8" opacity=".25">
+      <animate attributeName="rx" values="46;34;46" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+      <path d="M0,-78 C18,-50 58,-10 58,22 A58,58 0 0 1 -58,22 C-58,-10 -18,-50 0,-78 Z" fill="url(#dropFill)" stroke="#CAF0F8" stroke-width="3"/>
+      <path d="M0,-78 C18,-50 58,-10 58,22 A58,58 0 0 1 -58,22 C-58,-10 -18,-50 0,-78 Z" fill="url(#dropGlow)"/>
+      <ellipse cx="-24" cy="-6" rx="9" ry="16" fill="#FFFFFF" opacity=".55" transform="rotate(25 -24 -6)"/>
+      <rect x="-18" y="-40" width="5" height="5" fill="#FFFFFF" opacity=".8"/>
+      <rect x="-26" y="40" width="52" height="4" fill="#9B4F96"/>
+      <text x="0" y="30" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="20" font-weight="700" fill="#FFFFFF">C#</text>
+    </g>
+  </g>
+  <g transform="translate(400 120)">
+    <ellipse cx="0" cy="98" rx="46" ry="7" fill="#00B4D8" opacity=".25">
+      <animate attributeName="rx" values="46;34;46" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+      <path d="M0,-78 C18,-50 58,-10 58,22 A58,58 0 0 1 -58,22 C-58,-10 -18,-50 0,-78 Z" fill="url(#dropFill)" stroke="#CAF0F8" stroke-width="3"/>
+      <path d="M0,-78 C18,-50 58,-10 58,22 A58,58 0 0 1 -58,22 C-58,-10 -18,-50 0,-78 Z" fill="url(#dropGlow)"/>
+      <ellipse cx="-24" cy="-6" rx="9" ry="16" fill="#FFFFFF" opacity=".55" transform="rotate(25 -24 -6)"/>
+      <rect x="-18" y="-40" width="5" height="5" fill="#FFFFFF" opacity=".8"/>
+      <rect x="-26" y="40" width="52" height="4" fill="#FFD43B"/>
+      <text x="0" y="30" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="20" font-weight="700" fill="#FFFFFF">Python</text>
+    </g>
+  </g>
+  <g transform="translate(560 120)">
+    <ellipse cx="0" cy="98" rx="46" ry="7" fill="#00B4D8" opacity=".25">
+      <animate attributeName="rx" values="46;34;46" dur="3s" begin="1.2000000000000002s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3s" begin="1.2000000000000002s" repeatCount="indefinite"/>
+      <path d="M0,-78 C18,-50 58,-10 58,22 A58,58 0 0 1 -58,22 C-58,-10 -18,-50 0,-78 Z" fill="url(#dropFill)" stroke="#CAF0F8" stroke-width="3"/>
+      <path d="M0,-78 C18,-50 58,-10 58,22 A58,58 0 0 1 -58,22 C-58,-10 -18,-50 0,-78 Z" fill="url(#dropGlow)"/>
+      <ellipse cx="-24" cy="-6" rx="9" ry="16" fill="#FFFFFF" opacity=".55" transform="rotate(25 -24 -6)"/>
+      <rect x="-18" y="-40" width="5" height="5" fill="#FFFFFF" opacity=".8"/>
+      <rect x="-26" y="40" width="52" height="4" fill="#8892BF"/>
+      <text x="0" y="30" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="20" font-weight="700" fill="#FFFFFF">PHP</text>
+    </g>
+  </g>
+  <g transform="translate(720 120)">
+    <ellipse cx="0" cy="98" rx="46" ry="7" fill="#00B4D8" opacity=".25">
+      <animate attributeName="rx" values="46;34;46" dur="3s" begin="1.6s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3s" begin="1.6s" repeatCount="indefinite"/>
+      <path d="M0,-78 C18,-50 58,-10 58,22 A58,58 0 0 1 -58,22 C-58,-10 -18,-50 0,-78 Z" fill="url(#dropFill)" stroke="#CAF0F8" stroke-width="3"/>
+      <path d="M0,-78 C18,-50 58,-10 58,22 A58,58 0 0 1 -58,22 C-58,-10 -18,-50 0,-78 Z" fill="url(#dropGlow)"/>
+      <ellipse cx="-24" cy="-6" rx="9" ry="16" fill="#FFFFFF" opacity=".55" transform="rotate(25 -24 -6)"/>
+      <rect x="-18" y="-40" width="5" height="5" fill="#FFFFFF" opacity=".8"/>
+      <rect x="-26" y="40" width="52" height="4" fill="#E0115F"/>
+      <text x="0" y="30" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="20" font-weight="700" fill="#FFFFFF">Ruby</text>
+    </g>
+  </g>
+  <g transform="translate(880 120)">
+    <ellipse cx="0" cy="98" rx="46" ry="7" fill="#00B4D8" opacity=".25">
+      <animate attributeName="rx" values="46;34;46" dur="3s" begin="2.0s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3s" begin="2.0s" repeatCount="indefinite"/>
+      <path d="M0,-78 C18,-50 58,-10 58,22 A58,58 0 0 1 -58,22 C-58,-10 -18,-50 0,-78 Z" fill="url(#dropFill)" stroke="#CAF0F8" stroke-width="3"/>
+      <path d="M0,-78 C18,-50 58,-10 58,22 A58,58 0 0 1 -58,22 C-58,-10 -18,-50 0,-78 Z" fill="url(#dropGlow)"/>
+      <ellipse cx="-24" cy="-6" rx="9" ry="16" fill="#FFFFFF" opacity=".55" transform="rotate(25 -24 -6)"/>
+      <rect x="-18" y="-40" width="5" height="5" fill="#FFFFFF" opacity=".8"/>
+      <rect x="-26" y="40" width="52" height="4" fill="#F7DF1E"/>
+      <text x="0" y="30" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="15" font-weight="700" fill="#FFFFFF">JavaScript</text>
+    </g>
+  </g>
+</svg>
