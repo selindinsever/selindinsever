@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 30" width="900" height="30" role="presentation">
+<defs><linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c9b8f0" stop-opacity="0"/><stop offset=".5" stop-color="#c9b8f0"/><stop offset="1" stop-color="#c9b8f0" stop-opacity="0"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff4c4"/><stop offset="1" stop-color="#f0bf52"/></linearGradient></defs>
+<path d="M20 15H410M490 15H880" stroke="url(#l)" stroke-width="2" stroke-linecap="round"/>
+<circle cx="425" cy="15" r="3" fill="#e8b94f"/><circle cx="475" cy="15" r="3" fill="#f0a07c"/>
+<path transform="translate(450 15)" d="M0-12Q1.6-1.6 12 0Q1.6 1.6 0 12Q-1.6 1.6-12 0Q-1.6-1.6 0-12Z" fill="url(#gold)"><animate attributeName="opacity" values="1;.4;1" dur="2.6s" repeatCount="indefinite"/></path>
+</svg>
