@@ -4,10 +4,6 @@
 
 <br/><br/>
 
-[![Website](https://img.shields.io/badge/selindinsever.com.tr-8a70cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://selindinsever.com.tr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4f8fc4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selindinsever)
-[![Email](https://img.shields.io/badge/Email-d9709c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selindinsever@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-4f9b82?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2415-7532)
 
 </div>
 
