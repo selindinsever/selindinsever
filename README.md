@@ -7,7 +7,6 @@
 [![Website](https://img.shields.io/badge/selindinsever.com.tr-8a70cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://selindinsever.com.tr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4f8fc4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selindinsever)
 [![Email](https://img.shields.io/badge/Email-d9709c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selindinsever@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-a995d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selindinsever)
 [![ORCID](https://img.shields.io/badge/ORCID-4f9b82?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2415-7532)
 
 </div>
@@ -20,7 +19,7 @@
 <tr>
 <td width="58%" valign="top">
 
-I build web solutions that put **user experience** first, with **clean code** and **modern design**.
+I build **backend and full-stack solutions** with Java (Spring Boot) and C# (.NET), and I'm drawn to **AI** and data-driven projects. I care about **clean code** and **user experience**.
 
 I graduated from the **Computer Programming** program at İzmir University of Economics as the **department valedictorian**. At Sisbim Technology I worked as a **Software Intern** and **Intern Team Lead**, taking an active role in backend development, process automation and team coordination.
 
